@@ -6,3 +6,4 @@ Forest is a simple memory manipulation/data retrieval library written in C/C++.
 # Usage
 
 Just call the Forest::Init() static function to initialize the library and load required modules. That's it!
+If you need help with usage, just take a look at the example CPP file.
